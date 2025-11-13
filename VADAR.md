@@ -5,7 +5,7 @@
 ## 问题：猜镜子半径
 
 - 如果图中的桌子实际高20米，那么镜子的半径是多少？
--![](resource\mirque.png)
+-![](./resource/mirque.png)
 - **方案一：面向空间推理的视觉语言模型**：
   - 直接用大量数据训练一个模型，将图片和问题输入后让它直接给出答案。
 - **方案二：视觉程序合成**：
@@ -17,15 +17,16 @@
 
 由大语言模型生产动态API,API的目标是将复杂的推理问题分解为更简单的子问题，最终生成可执行程序。
 
-![](resource\process.png)
+![](./resource/process.png)
 
 ---
 
 ## 实验结果
 
-![](resource\firRes.png)
+![](./resource/firRes.png)
 
-![](resource\secRes.png)
+![](./resource/secRes.png)
+
 
 
 
