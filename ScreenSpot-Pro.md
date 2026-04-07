@@ -5,7 +5,6 @@
 工业软件：cad,solidworks,inventor,vivado
 ![total](./resource/GUI/total.png)
 ![cad](./resource/GUI/cad.png)
-
 ![word](./resource/GUI/word.png)
 ![json](./resource/GUI/json.png)
 
