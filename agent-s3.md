@@ -37,4 +37,6 @@
 ![totalpng](./resource/STARCCM/total.png)
 ![partpng](./resource/STARCCM/part.png)
 
+![flowChart](./resource/STARCCM/flowChart.png)
+
 
