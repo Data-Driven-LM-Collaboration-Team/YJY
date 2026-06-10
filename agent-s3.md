@@ -39,4 +39,25 @@
 
 ![flowChart](./resource/STARCCM/flowChart.png)
 
+---
+
+### new_actions_kb
+- 左点击“文件”菜单
+  
+  --按钮坐标{[62,21]}
+  
+  --按钮UI元素描述：
+  {
+  
+  1.位置简述[窗口左上角菜单栏，在 STAR-CCM+ 图标右侧，在“编辑”菜单左侧]
+  
+  2.形状[除文字外无明显按键形状，横向菜单文字]
+  
+  3.作用简述[打开文件菜单，下层可选“新建”等文件级命令]
+  
+  4.包含/临近下层UI元素[新建；打开；保存；导入]
+  }
+  
+![xinjian](./resource/STARCCM/xinjian.png)
+
 
